@@ -1,1 +1,1 @@
-let d = 10;
+const d = 10;
